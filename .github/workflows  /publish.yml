@@ -1,4 +1,4 @@
-name: Docker Publish (Production Images)
+name: Docker Publish (Production Image)
 
 on:
   push:

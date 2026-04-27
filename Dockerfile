@@ -1,4 +1,4 @@
-FROM phpswoole/swoole:php8.3-alpine
+FROM phpswoole/swoole:php8.4-alpine
 ARG APP_VERSION=unknown
 ENV APP_VERSION=${APP_VERSION}
 RUN apk add --no-cache tzdata
